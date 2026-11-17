@@ -1,0 +1,2 @@
+export const LOGO_IMG = "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg";
+export const RES_IMG = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";
